@@ -31,9 +31,21 @@
 
 **Progresso do dia**: Composição de objetos
 
-**Resumo**: Realizar o relacionamento entre classes através de composição; Vantagens de se isolar informações repetidas em outra classe; Detalhes da composição; NullPointerException para atributos não inicializados e seus cuidados.
+**Resumo**: Realizar o relacionamento entre classes através de composição; Vantagens de se isolar informações repetidas em outra classe; 
 
 **Link(s) para o trabalho**
-1. [Bytebank Composto](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/bytebank2)
+1. [Bytebank Composto](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/bytebank-composto)
+
+
+### Day 4: March 05, 2021
+
+**Progresso do dia**: Aprendendo sobre o maven e resolvendo desafios Java do Codegym
+
+**Resumo**: As dificuldades de se realizar manualmente o build de uma aplicação Java; As dificuldades de se gerenciar manualmente as dependências de uma aplicação Java; O que é o Maven; Como instalar e executar o Maven.
+
+**Link(s) para o trabalho**
+1. [CodeGym](https://codegym.cc/)
+
+
 
 

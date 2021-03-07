@@ -48,4 +48,17 @@
 
 
 
+### Day 5: March 06, 2021
+
+**Progresso do dia**: Aprendendo a linguagem de máquina MIPS para a disciplina de Arquitetura e Organização de Computadores
+
+**Resumo**: Quem conhece como o hardware funciona e como interagimos com ele em baixo nível tem facilidade com qualquer outra linguagem de alto nível. No MIPs são 32 registradores de uso geral de 32 bits cada. • Nomenclatura $s0 - $s31 (variáveis) ou $t0 - $t31 (temporários) • Porque só 32? Porque mais registradores aumentam a complexidade do processador e afetam desempenho. Aprendi as instruções aritméticas do MIPS. 
+
+**Link(s) para o trabalho**
+1. [Programa SPIM](http://spimsimulator.sourceforge.net/)
+
+
+
+
+
 

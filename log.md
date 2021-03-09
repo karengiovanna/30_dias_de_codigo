@@ -71,6 +71,16 @@
 
 
 
+### Day 7: March 08, 2021
+
+**Progresso do dia**: Aprendendo a linguagem de máquina MIPS para a disciplina de Arquitetura e Organização de Computadores
+
+**Resumo**: Utilizando a linguagem de programação MIPS, escrevi um programa que contém uma função para encontrar o maior valor em vetor com 5 elementos.
+
+**Link(s) para o trabalho**
+1. [Maior número de um vator de 5](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/mips_code/maior_valor_vetor.s)
+
+
 
 
 

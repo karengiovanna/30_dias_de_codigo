@@ -6,14 +6,23 @@
 
 ################# Data segment #####################
 .data
-. . .
 
 ################# Code segment #####################
 .text
+fatorial:
+    li $v0, 5
+    syscall
+    move $a0, $v0
+    addi $s0, $s0, 1
+    loop:
+    mul $s0, $s0, $a0
+    sub $a0, $a0, 1
+    bgt $a0, 1,loop
+    add $v0, $s0, $zero
+    #mostrar resultado
+    move $a0, $v0
+    li $v0,1
+    syscall
 .globl main
-main:           # main program entry
-. . .
-
-
-li $v0, 10      # Exit program
-syscall
+main:
+    jal fatorial 

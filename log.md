@@ -81,6 +81,14 @@
 1. [Maior número de um vator de 5](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/mips_code/maior_valor_vetor.s)
 
 
+### Day 8: March 09, 2021
+
+**Progresso do dia**: Aprendendo a linguagem de máquina MIPS para a disciplina de Arquitetura e Organização de Computadores
+
+**Resumo**: Escrevi em Assembly MIPS um programa que encontra a fatorial de um número
+
+**Link(s) para o trabalho**
+1. [Fatorial em MIPS Assembly](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/mips_code/fatorial.s)
 
 
 

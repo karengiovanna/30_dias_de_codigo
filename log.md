@@ -91,4 +91,14 @@
 1. [Fatorial em MIPS Assembly](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/mips_code/fatorial.s)
 
 
+### Day 9: March 13, 2021
+
+**Progresso do dia**: Aprendendo Composição de Objetos em Java
+
+**Resumo**: Realizar o relacionamento entre classes através de composição; Vantagens de se isolar informações repetidas em outra classe; Detalhes da composição; NullPointerException para atributos não inicializados e seus cuidados.
+
+**Link(s) para o trabalho**
+1. [ByteBank Composto](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/bytebank-composto)
+
+
 

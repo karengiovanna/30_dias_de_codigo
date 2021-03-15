@@ -1,5 +1,5 @@
 
-public class TestaMetodo {
+public class TestaBanco {
 	public static void main(String[] Args) {
 		Cliente karen = new Cliente();
 		karen.nome = "Karen Giovanna";

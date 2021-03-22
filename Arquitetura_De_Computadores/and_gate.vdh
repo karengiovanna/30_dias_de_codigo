@@ -1,0 +1,27 @@
+-- Title: AND GATE            Filename: and_gate.vdh
+-- Author: Karen Giovanna     Date: 22 de março de 2021
+-- Description: Exemplo de porta AND na linguagem VHD
+
+-- Bibliotecas e pacotes
+
+-- Entidade (obrigatoriamente tem que ter o mesmo nome do arquivo para poder compilar)
+entity and_gate is
+    port ( -- interface com o mundo externo atraves da estrutura port
+        a,b : in bit; -- entrada a e b
+        z   : out bit
+    );
+end entity and_gate;  -- fechar entidade, opcional colocar o nome da entidade novamente
+-- outra possibilidade: end and_gate;
+
+-- Arquitetura
+architecture main of and_gate is -- uma arquitetura com nome main para a etidade and_gate
+    -- objetos ficam definidos aqui
+begin -- como nao tem objetos vamos comecar o codigo
+    z <= a and b;
+    
+end architecture main;
+
+-- Configuracao 
+-- nao tem
+
+

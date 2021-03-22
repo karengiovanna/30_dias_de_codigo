@@ -100,5 +100,14 @@
 **Link(s) para o trabalho**
 1. [ByteBank Composto](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/bytebank-composto)
 
+### Day 10: March 22, 2021
+
+**Progresso do dia**: Programando portas lógicas na linguagem VHD
+
+**Resumo**: "VHDL ou "VHSIC Hardware Description Language" é uma linguagem usada para facilitar o design de circuitos digitais em CPLDs, FPGAs e ASICs." - Wikipédia
+
+**Link(s) para o trabalho**
+1. [Criar componentes utilizando VHDL](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Arquitetura_De_Computadores/atividade_18.03.2021)
+
 
 

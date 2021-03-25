@@ -110,4 +110,14 @@
 1. [Criar componentes utilizando VHDL](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Arquitetura_De_Computadores/atividade_18.03.2021)
 
 
+### Day 11: March 24, 2021
+
+**Progresso do dia**: Programando o script de uma calculadora 
+
+**Resumo**: Aprendendo um pouco sobre javascript no projeto Imersão Dev da Alura. Utilizando document.write junto a tags html, obtendo valores por meio do prompt e exibindo textos por meio do alert.
+
+**Link(s) para o trabalho**
+1. [Calculadora](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/Calculadora)
+
+
 

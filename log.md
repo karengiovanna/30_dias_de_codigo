@@ -121,3 +121,14 @@
 
 
 
+### Day 12: March 25, 2021
+
+**Progresso do dia**: Programando um código para o usuário adivinhar o número sorteado
+
+**Resumo**: Aprendendo um pouco sobre javascript no projeto Imersão Dev da Alura. Utilizando laços de repetição, condicionais e função que gera número randomico.
+
+**Link(s) para o trabalho**
+1. [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/Mentalista)
+
+
+

@@ -31,18 +31,25 @@ Eu não recomendo se comprometer em mais que 3 desafios de uma vez, o ideal é 2
 * Se você gostou desse repositório e o acha útil, considere dar uma estrela (na direita, no top da página) :)
 
 # Conteúdos que quero estudar: 
+
 ## LÓGICA DE PROGRAMAÇÃO:
-    *Tipos de Dados 
-    *Estrutura de Controle (Tomada de Decisão) 
-    *Estrutura de Controle (Laços de Repetição) 
-    *Prova 1 
-    *Estrutura de Dados Homogêneas
-    *Aplicações do uso de Matrizes
-    *Estrutura de Dados Heterogêneas 
-    *Sub-rotinas 
-    *Estrutura de controle de múltipla escolha 
-    *Parâmetros formais e reais 
-    *Passagem de parâmetros 
+<center>
+    
+  Conteúdo   | Utilização
+:---------------: | :------------:
+Tipos de Dados  | ..
+Estrutura de Controle (Tomada de Decisão) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js) 
+Estrutura de Controle (Laços de Repetição) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js)
+Estrutura de Dados Homogêneas | ..
+Estrutura de Dados Homogêneas | ..
+Aplicações do uso de Matrizes | ..
+Estrutura de Dados Heterogêneas | ..
+Sub-rotinas | ..
+Estrutura de controle de múltipla escolha | ..
+Parâmetros formais e reais | ..
+Passagem de parâmetros | ..
+
+</center>
 
 ## PROGRAMAÇÃO ESTRUTURADA:
     *Variáveis, atribuições e estrutura básica de um programa 
@@ -67,7 +74,7 @@ Eu não recomendo se comprometer em mais que 3 desafios de uma vez, o ideal é 2
     *Fila circular usando vetores;
     
  ## PROGRAMAÇÃO ORIENTADA A OBJETOS:
- ```
+ 
  * análise, modelagem e programação orientada a objetos.
  * Uma visão geral sobres design, análise e programação orientada a objetos
  * Interagindo com Objetos em python

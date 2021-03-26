@@ -5,29 +5,29 @@ public class Cliente {
 	 private String profissao;
 
 	// setters
-	public void setNome(nome){
+	public void setNome(String nome){
 		this.nome = nome;
 	}
 	
-	public void setCPF(cpf){
+	public void setCPF(String cpf){
 		this.cpf = cpf;	
 	}
 	
-	public void setProfissao(){
+	public void setProfissao(String profissao){
 		this.profissao = profissao;
 	}
 	
 	// getters
 	
-	public string getNome(){
+	public String getNome(){
 		return this.nome;
 	}
 	
-	public string getCPF(){
+	public String getCPF(){
 		return this.cpf;
 	}
 	
-	public string getProfissao(){
+	public String getProfissao(){
 		return this.profissao;
 	}
 }

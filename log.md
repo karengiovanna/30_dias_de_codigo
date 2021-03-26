@@ -131,4 +131,14 @@
 1. [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/Mentalista)
 
 
+### Day 13: March 26, 2021
+
+**Progresso do dia**: Encapsulamento e visibilidade
+
+**Resumo**: Atributos privados, restringindo o acesso aos atributos; Encapsulamento de código; Métodos de leitura dos atributos, os getters; Métodos de modificação dos atributos, os setters; Getters e Setters de referência
+
+**Link(s) para o trabalho**
+1. [Classe conta](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Java%20OO/bytebank-encapsulamento/src/Conta.java)
+
+
 

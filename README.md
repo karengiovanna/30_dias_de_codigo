@@ -52,13 +52,17 @@ Passagem de parâmetros | ..
 </center>
 
 ## PROGRAMAÇÃO ESTRUTURADA:
-    *Variáveis, atribuições e estrutura básica de um programa 
-    *Comandos de Seleção IF-ELSE-SWITCH 
-    *Laços de Repetição
-    *rand - jogo aleatorio 
-    *Funções - 1ª Parte
-    *Vetores 
-    *Strings  
+
+Conteúdo   | Utilização
+:---------------: | :------------:
+Variáveis, atribuições e estrutura básica de um programa  | ..
+Comandos de Seleção IF-ELSE-SWITCH  | ..
+Laços de Repetição | ..
+rand - jogo aleatorio  | ..
+Funções - 1ª Parte | ..
+Vetores  | [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/3%20-%20AluraFlix)
+Strings   | ..
+
     *Matrizes
     ------------
     *Ponteiros 

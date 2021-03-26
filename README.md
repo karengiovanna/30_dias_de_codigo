@@ -4,20 +4,18 @@
 
 * [Regras](regras.md)
 * [Log - clique aqui para ver meu progresso](log.md)
-* [LEIA-ME](README.md)
+
 
 
 ## Se você decidir participar:
 
 0.  Conheça [o Site Oficial](http://100daysofcode.com/) para o movimento do #100DaysOfCode. Conecte-se com outras pessoas na plataforma de sua escolha a partir dessa lista: www.100DaysOfCode.com/connect
-    Além disso, [aqui](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) está um convite para nosso canal de Slack.
 1.  Leia [Participando do #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Dê um fork neste repositório e dê commit o [Log](log.md), ou a alternativa, o rápido [R1 Log](r1-log.md) (R1 significa Round 1) diariamente. [Exemplo](https://github.com/Kallaway/100-days-kallaway-log).
 3.  **Programe no mínimo uma hora diariamente pelos próximos 100 dias.**
-4.  **Encoraje, pelo menos, duas pessoas no desafio no Twitter diariamente. Espalhe a mensagem!**
-5.  Troque a data nas [Regras](regras.md) para o dia que você iniciou o desafio.
-6.  Apague os exemplos no log, ou comente-os, e comece a preencher com seu próprio conteúdo.
-7.  **Twite seu progresso diariamente usando a hashtag #100DaysOfCode**
+4.  Troque a data nas [Regras](regras.md) para o dia que você iniciou o desafio.
+5.  Apague os exemplos no log, ou comente-os, e comece a preencher com seu próprio conteúdo.
+
 
 ## Quer formar outros hábitos?
 
@@ -27,7 +25,7 @@ Eu não recomendo se comprometer em mais que 3 desafios de uma vez, o ideal é 2
 
 ## Notas
 
-* Se você tiver alguma dúvida ou ideias sobre 100DaysOfCode (ou outros desafios), entre em contato comigo
+* Se você tiver alguma dúvida ou ideias sobre 100DaysOfCode (ou outros desafios), entre em contato 
 * Se você gostou desse repositório e o acha útil, considere dar uma estrela (na direita, no top da página) :)
 
 # Conteúdos que quero estudar: 

@@ -21,7 +21,7 @@
 
 </p>
 
-## Projeto inicial feito pela Imersão Dev
+## Projeto inicial feito durante a Imersão Dev
 ![aluraflix](https://user-images.githubusercontent.com/49700354/112767203-b4e62400-8feb-11eb-8e38-5f88e6328c89.png)
 
 ## How To Use

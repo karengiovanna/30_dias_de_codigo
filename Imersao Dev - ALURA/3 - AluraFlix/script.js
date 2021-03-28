@@ -20,14 +20,19 @@
 
 // tamanho do array
 //console.log(filmes.length)
-
+listaTitulos = []
 listaFilmes = []
+
+listaTitulos.push("Zathura: Uma Aventura Espacial")
 listaFilmes.push("https://m.media-amazon.com/images/M/MV5BMDc1NzM1OTgtOGYxMS00ZWE1LWEzZWMtNWEyOTI2NDJjOTU2XkEyXkFqcGdeQXVyNjQzNzA2NjM@._V1_UX182_CR0,0,182,268_AL_.jpg")
 
+listaTitulos.push("Hannah Montana: O Filme")
 listaFilmes.push("https://m.media-amazon.com/images/M/MV5BMTkxNjUxODY3NF5BMl5BanBnXkFtZTcwMjQyMzMzMg@@._V1_UX182_CR0,0,182,268_AL_.jpg")
 
+listaTitulos.push("A Criada")
 listaFilmes.push("https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL_.jpg")
 
 for(var i =0; i< listaFilmes.length; i++){
   document.write("<img src = " + listaFilmes[i] + ">")
+  document.write("<p>" + listaTitulos[i] + "</p>")
 }

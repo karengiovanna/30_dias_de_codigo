@@ -34,6 +34,11 @@ Quando o susuário clica no botão de adicionar filme é chamada a função adic
 
 Sabendo disso, criamos uma condicional: se o valor do elemento (valor inserido no campo de texto) não terminar com .JPG ele não é inserido na página e o usuário será avisado por meio de um alert() que este valor que ele está inserindo não é válido.
 
+## Desafios
+
+* Cadastrar também o trailer de cada filme e colocar o botão do youtube (embeded link)
+* Ver a função do innerHTML e entender o que ele está fazendo
+* Criar função para validar filme
 
 ## Credits
 

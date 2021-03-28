@@ -14,7 +14,8 @@
   <br />
     <a href="https://imersao.dev/"><strong>Conheça o evento »</strong></a>
     <br />
-    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao">Projeto AluraFlix</a>
+  <br />
+    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao">Meu projeto favorito:  AluraFlix</a>
   </p>
 </p>
 
@@ -22,12 +23,19 @@
 Atribuição de valor a variáveis, função parseInt para transformar valores em números inteiros, função document.write para entregar informação para o usuário
 
 ### Aula 01: Calculadora e lações condicionais no JavaScript
-alert(), document.write() e prompt(), laços e condicionais.
+Prgramar um script que faça operações aritméticas com dois valores inseridos pelo usuário para a página calculadora 
+
+![calculadora](https://user-images.githubusercontent.com/49700354/112768979-152d9380-8ff5-11eb-90b9-5a1fcee80058.png)
 
 ### Aula 02: Mentalista e números aleatórios
+Fazer um script que gere números aleatórios e usuário tenha a possibilidade de acertar qual é o número aleatório
+
+![mentalista](https://user-images.githubusercontent.com/49700354/112769014-41e1ab00-8ff5-11eb-8489-6cf997c132c9.png)
 
 ### Aula 03: Alura Flix
 Utilizando arrays para guardar banners de filmes e seus títulos. Função push para inserir valores no array. Integração ao código HTML para exibir fotos por meio dos seus links.
 
 ### Aula 04: Refatorando o Aluraflix com funções
 Integrando funções em botões no html. Definir a função no script e chamá-la no HTML.
+
+![aluraflix](https://user-images.githubusercontent.com/49700354/112767203-b4e62400-8feb-11eb-8e38-5f88e6328c89.png)

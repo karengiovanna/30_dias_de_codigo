@@ -14,12 +14,7 @@
   <br />
     <a href="https://imersao.dev/"><strong>Conheça o evento »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/Calculadora">Calculadora e laços condicionais</a>
-    ·
-    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/Mentalista">Mentalista e números aleatórios</a>
-    ·
-    <a href=" ">AluraFlix</a>
+    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao">Projeto AluraFlix</a>
   </p>
 </p>
 

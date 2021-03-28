@@ -140,5 +140,14 @@
 **Link(s) para o trabalho**
 1. [Classe conta](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Java%20OO/bytebank-encapsulamento/src/Conta.java)
 
+### Day 14: March 27, 2021
+
+**Progresso do dia**: AluraFlix, plataforma de filmes com interação do usuário
+
+**Resumo**: O usuário insere o link do banner de um filme e esse banner é exibido na página. Foram utilizadas as funções document.querySelector() para pegar elementos do html, método innerHTML, adicionarFilme() e listasFilmesFavoritos()
+
+**Link(s) para o trabalho**
+1. [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
+
 
 

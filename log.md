@@ -149,5 +149,12 @@
 **Link(s) para o trabalho**
 1. [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
 
+### Day 15: March 28, 2021
 
+**Progresso do dia**: AluraFlix, plataforma de filmes com interação do usuário
+
+**Resumo**: Iniciei o desafio de cadastrar o trailer do filme
+
+**Link(s) para o trabalho**
+1. [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
 

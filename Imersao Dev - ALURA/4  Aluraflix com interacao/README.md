@@ -24,8 +24,12 @@
 ## Projeto inicial feito durante a Imersão Dev
 ![aluraflix](https://user-images.githubusercontent.com/49700354/112767203-b4e62400-8feb-11eb-8e38-5f88e6328c89.png)
 
-## Projeto em andamento
+## Projeto em andamento 28.03.2021
 ![Captura de tela de 2021-03-29 19-42-31](https://user-images.githubusercontent.com/49700354/112913059-f0a1ec00-90c6-11eb-995d-d24cfeb958ac.png)
+
+## Projeto em andamento 29.03.2021
+![karol](https://user-images.githubusercontent.com/49700354/112941472-06360680-9105-11eb-9960-cf8cc76d532a.png)
+
 
 ## How To Use
 

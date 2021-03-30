@@ -1,30 +1,41 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en" >
 <head>
-    <title>
+  <meta charset="UTF-8">
+  <title>
         Imersão Dev - Aula 05
     </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
+
 
 <body>
     <div class="container">
         <h1 class="page-title">
-            The Space
+            A Experiência
         </h1>
         <img src="https://cdn.shopify.com/s/files/1/2460/7967/files/KG-Logo_x300.png?v=1615565525" class="page-logo"
             alt="">
         <p class="page-subtitle">
-            Qual seu filme favorito?
+            Qual seu clipe favorito?
         </p>
         <div class="form-wrapper">
-            <input type="text" id="filme" name="filme" placeholder="Insira endereço de imagem">
-            <button onClick="adicionarFilme()">Adicionar Filme</button>
+            <input type="text" id="campo" name="campoInput" placeholder="Insira o clipe">
+
+            <button onClick="buscarClipe()">Assistir</button>
+            
+            <button onClick="exibirNaTela()">Exibir todos</button>
+
+            <button onClick="adicionarClipe()">Adicionar clipe</button>
         </div>
     </div>
-    <div id="listaFilmes"></div>
+    <div id="listaClipes"></div>
     <a href="https://alura.com.br/" target="_blank">
         <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
     </a>
+<!-- partial -->
+<script  src="./script.js"></script>
 </body>
 
 </html>

@@ -112,7 +112,7 @@
 
 ### Day 11: March 24, 2021
 
-**Progresso do dia**: Programando o script de uma calculadora 
+**Progresso do dia**: Imersão Dev, aula 03: Programando o script de uma calculadora 
 
 **Resumo**: Aprendendo um pouco sobre javascript no projeto Imersão Dev da Alura. Utilizando document.write junto a tags html, obtendo valores por meio do prompt e exibindo textos por meio do alert.
 
@@ -123,7 +123,7 @@
 
 ### Day 12: March 25, 2021
 
-**Progresso do dia**: Programando um código para o usuário adivinhar o número sorteado
+**Progresso do dia**: Imersão Dev, aula 04: Programando um código para o usuário adivinhar o número sorteado
 
 **Resumo**: Aprendendo um pouco sobre javascript no projeto Imersão Dev da Alura. Utilizando laços de repetição, condicionais e função que gera número randomico.
 
@@ -142,7 +142,7 @@
 
 ### Day 14: March 27, 2021
 
-**Progresso do dia**: AluraFlix, plataforma de filmes com interação do usuário
+**Progresso do dia**: Iníciei a aula 4 do Imersão Dev: AluraFlix, plataforma de filmes com interação do usuário
 
 **Resumo**: O usuário insere o link do banner de um filme e esse banner é exibido na página. Foram utilizadas as funções document.querySelector() para pegar elementos do html, método innerHTML, adicionarFilme() e listasFilmesFavoritos()
 
@@ -151,10 +151,26 @@
 
 ### Day 15: March 28, 2021
 
-**Progresso do dia**: AluraFlix, plataforma de filmes com interação do usuário
+**Progresso do dia**: aula 5 do Imersão Dev: AluraFlix, plataforma de filmes com interação do usuário
 
 **Resumo**: Iniciei o desafio de cadastrar o trailer do filme
 
+
+### Day 16: March 29, 2021
+
+**Progresso do dia**: aula 5 do Imersão Dev: modifiquei o front-end e AluraFlix se tornou A Experiência Karol G
+
+**Resumo**: Buscar um clipe, exibir todos os clipes, cadastrar um clipe da Karol G
+
 **Link(s) para o trabalho**
 1. [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
+
+### Day 17: March 30, 2021
+
+**Progresso do dia**: Início da aula 6 do imersão dev: tabela de classificação de jogadores
+
+**Resumo**: Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
+
+**Link(s) para o trabalho**
+1. [A Experiência Karol G](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
 

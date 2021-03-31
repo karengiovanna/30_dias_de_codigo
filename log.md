@@ -163,7 +163,7 @@
 **Resumo**: Buscar um clipe, exibir todos os clipes, cadastrar um clipe da Karol G
 
 **Link(s) para o trabalho**
-1. [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
+1. [A Experiência Karol G](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
 
 ### Day 17: March 30, 2021
 
@@ -172,5 +172,5 @@
 **Resumo**: Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
 
 **Link(s) para o trabalho**
-1. [A Experiência Karol G](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
+1. [Tabela de Classificação](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/5%20-%20Tabela%20de%20Classifica%C3%A7%C3%A3o)
 

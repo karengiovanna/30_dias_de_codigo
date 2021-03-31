@@ -3,8 +3,17 @@
 
   <h3 align="center">AULA 6: TABELA DE CLASSIFICAÇÃO E OBJETOS NO JAVASCRIPT</h3>
 
-  <p align="center">
-    Para programar utilizei a plataforma codepen.io/ pois foi necessário realizar o fork do front-end de cada projeto
+  <p align="center">Nesta sexta aula da Imersão Dev, foi criada uma tabela de classificação para aprendermos o que são objetos no Javascript! </p>
+
+Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
+    
+* Remover o código estático do HTML;
+* Criar um objeto no Javascript para cada jogador;
+* Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+* Exibir o objeto na página HTML;
+* Criar uma função para adicionar vitória;
+* Criar uma função para adicionar empate e outra para adicionar derrota;
+* Recalcular os pontos quando vitória ou empate for adicionado.
   <br />
   
 <p align="center">
@@ -16,6 +25,10 @@
 
 ## Projeto em andamento 30.03.2021
 ![tabela](https://user-images.githubusercontent.com/49700354/113075728-e6095480-91a3-11eb-9032-52678e2cdfaa.png)
+
+## Desafios dessa aula!
+* Incluir uma imagem na linha de cada jogador;
+* Um botão que adiciona um novo jogador na tabela de classificação.
 
 ## Credits
 

@@ -32,48 +32,42 @@ Eu não recomendo se comprometer em mais que 3 desafios de uma vez, o ideal é 2
 
 ## LÓGICA DE PROGRAMAÇÃO:
 <center>
-    
-  Conteúdo   | Utilização
-:---------------: | :------------:
-Tipos de Dados  | ..
-Estrutura de Controle (Tomada de Decisão) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js) 
-Estrutura de Controle (Laços de Repetição) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js)
-Estrutura de Dados Homogêneas | ..
-Estrutura de Dados Homogêneas | ..
-Aplicações do uso de Matrizes | ..
-Estrutura de Dados Heterogêneas | ..
-Sub-rotinas | ..
-Estrutura de controle de múltipla escolha | ..
-Parâmetros formais e reais | ..
-Passagem de parâmetros | ..
+
+* Tipos de Dados  
+* Estrutura de Controle (Tomada de Decisão) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js) 
+* Estrutura de Controle (Laços de Repetição) | [Mentalista](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/Mentalista/script.js)
+* Estrutura de Dados Homogêneas 
+* Estrutura de Dados Homogêneas
+* Aplicações do uso de Matrizes 
+* Estrutura de Dados Heterogêneas 
+* Sub-rotinas 
+* Estrutura de controle de múltipla escolha 
+* Parâmetros formais e reais 
+* Passagem de parâmetros 
 
 </center>
 
 ## PROGRAMAÇÃO ESTRUTURADA:
 
-Conteúdo   | Utilização
-:---------------: | :------------:
-Variáveis, atribuições e estrutura básica de um programa  | ..
-Comandos de Seleção IF-ELSE-SWITCH  | ..
-Laços de Repetição | ..
-rand - jogo aleatorio  | ..
-Funções - 1ª Parte | ..
-Vetores  | [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/3%20-%20AluraFlix)
-Strings   | ..
-
-    *Matrizes
-    ------------
-    *Ponteiros 
-    *Structs e Enum
-    *Recursividade e Classes de Armazenamento
-    *Processo de Compilação e Macros
-    *Arquivos
+* Variáveis, atribuições e estrutura básica de um programa
+* Comandos de Seleção IF-ELSE-SWITCH  
+* Laços de Repetição
+* rand - jogo aleatorio 
+* Funções - 1ª Parte 
+* Vetores  | [AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/3%20-%20AluraFlix)
+* Strings 
+* Matrizes
+* Ponteiros 
+* Structs e Enum
+* Recursividade e Classes de Armazenamento
+* Processo de Compilação e Macros
+* Arquivos
 
 ## ESTRUTURA DE DADOS I:
-    *revisão sobre recursividade
-    *Pilha usando vetores
-    *Exercícios práticos com uso de pilha
-    *Fila circular usando vetores;
+* revisão sobre recursividade
+* Pilha usando vetores
+* Exercícios práticos com uso de pilha
+* Fila circular usando vetores;
     
  ## PROGRAMAÇÃO ORIENTADA A OBJETOS:
  

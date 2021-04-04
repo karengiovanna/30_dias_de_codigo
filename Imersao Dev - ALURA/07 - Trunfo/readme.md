@@ -6,8 +6,19 @@
 </p>
 
 
-## Projeto inicial feito durante a Imersão Dev
+### Projeto inicial feito durante a Imersão Dev
+Criar as cartas do jogo e definir seus atributos;
+Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;
+
 ![Trunfo](./trunfo1.png)
 
-## Projeto inicial feito durante a Imersão Dev
+### Projeto inicial feito durante a Imersão Dev
+Exibindo os atributos das cartas na tela para o jogador;
+Obter o atribudo escolhido pelo jogador e comparar com a carta da máquina;
+Comparar o atributo de ambas as cartas e definir um vencedor.
+
 ![Trunfo](./trunfo2.png)
+
+### Desafios propostos: 
+* Exibir a carta do jogador e da máquina na tela;
+* Adicionar uma imagem em cada carta.

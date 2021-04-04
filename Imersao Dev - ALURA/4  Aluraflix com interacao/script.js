@@ -14,8 +14,7 @@ function buscarClipe(){
           break
         }
     }
-    alert("Esse clipe não está na nossa base de dados! Adcione o embeded no campo")
-    document.getElementById("campo").value = ""
+    
 }
 
 

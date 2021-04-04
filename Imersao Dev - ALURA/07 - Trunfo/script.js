@@ -48,7 +48,32 @@ function sortearCarta(){
 
 function exibirOpcoes(){
   var opcoes = document.getElementById('opcoes')
+  var opcoesTexto = ""
   for (var atributo in cartaJogador.atributos){
-    console.log(atributo)
+    opcoesTexto += "<input type='radio' name ='atributo' value = '" + atributo + "'>" + atributo
   }
+  opcoes.innerHTML = opcoesTexto
+}
+
+function ObtemAtributoSelecionado(){
+  var radiousAtributo = document.getElementsByName('atributo')
+  for (var i = 0; i< radiousAtributo.length; i++){ /*verifica cada radio e checa qual deles está selecionado*/
+    if (radiousAtributo[i].checked){ /* checked == a bolinha está aqui? */
+      return radiousAtributo[i].value 
+    }
+  }
+}
+
+function jogar(){
+  var atributoSelecionado = ObtemAtributoSelecionado()
+  console.log(atributoSelecionado)
+
+  if (cartaJogador.atributos[atributoSelecionado] > cartaMaquina.atributos[atributoSelecionado]){
+    alert("Você venceu!")
+  } else if(cartaJogador.atributos[atributoSelecionado] < cartaMaquina.atributos[atributoSelecionado]){
+    alert("Perdeu. A carta da máquina é maior")
+  } else{
+    alert("empatou!")
+  }
+  console.log("cartaMaquina")
 }

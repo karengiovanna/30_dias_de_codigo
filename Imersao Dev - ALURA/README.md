@@ -39,3 +39,11 @@ Utilizando arrays para guardar banners de filmes e seus títulos. Função push 
 Integrando funções em botões no html. Definir a função no script e chamá-la no HTML.
 
 ![aluraflix](https://user-images.githubusercontent.com/49700354/112767203-b4e62400-8feb-11eb-8e38-5f88e6328c89.png)
+
+### Aula 06: Classificação de jogadores
+Integrando funções em botões no html. Definir a função no script e chamá-la no HTML.
+
+![tabela](https://user-images.githubusercontent.com/49700354/113008776-b7608f00-914d-11eb-9607-156928e52a3a.png)
+
+### Aula 07: Jogo de cartas Trunfo
+![Trunfo](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/07%20-%20Trunfo/trunfo2.png)

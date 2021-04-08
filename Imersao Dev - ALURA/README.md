@@ -27,12 +27,8 @@ Atribuição de valor a variáveis, função parseInt para transformar valores e
 ### Aula 01: Calculadora e lações condicionais no JavaScript
 Prgramar um script que faça operações aritméticas com dois valores inseridos pelo usuário para a página calculadora 
 
-![calculadora](https://user-images.githubusercontent.com/49700354/112768979-152d9380-8ff5-11eb-90b9-5a1fcee80058.png)
-
 ### Aula 02: Mentalista e números aleatórios
 Fazer um script que gere números aleatórios e usuário tenha a possibilidade de acertar qual é o número aleatório
-
-![mentalista](https://user-images.githubusercontent.com/49700354/112769014-41e1ab00-8ff5-11eb-8489-6cf997c132c9.png)
 
 ### Aula 03: Alura Flix
 Utilizando arrays para guardar banners de filmes e seus títulos. Função push para inserir valores no array. Integração ao código HTML para exibir fotos por meio dos seus links.

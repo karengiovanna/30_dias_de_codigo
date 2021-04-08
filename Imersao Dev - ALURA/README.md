@@ -15,7 +15,9 @@
     <a href="https://imersao.dev/"><strong>Conheça o evento »</strong></a>
     <br />
   <br />
-    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao">Meu projeto favorito:  AluraFlix</a>
+    <a href="https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao">Meu projeto favorito:  AluraFlix    </a>
+  <a href="https://karengiovanna.github.io/">|    Segundo projeto favorito:  certificado</a>
+  
   </p>
 </p>
 
@@ -35,7 +37,7 @@ Fazer um script que gere números aleatórios e usuário tenha a possibilidade d
 ### Aula 03: Alura Flix
 Utilizando arrays para guardar banners de filmes e seus títulos. Função push para inserir valores no array. Integração ao código HTML para exibir fotos por meio dos seus links.
 
-### Aula 04: Refatorando o Aluraflix com funções
+### Aula 04: [Refatorando o Aluraflix com funções](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)
 Integrando funções em botões no html. Definir a função no script e chamá-la no HTML.
 ![aula4](https://user-images.githubusercontent.com/49700354/112941472-06360680-9105-11eb-9960-cf8cc76d532a.png)
 ![aluraflix](https://user-images.githubusercontent.com/49700354/112767203-b4e62400-8feb-11eb-8e38-5f88e6328c89.png)
@@ -48,5 +50,5 @@ Integrando funções em botões no html. Definir a função no script e chamá-l
 ### Aula 07: Jogo de cartas Trunfo
 ![Trunfo](https://github.com/karengiovanna/100-dias-de-codigo/blob/main/Imersao%20Dev%20-%20ALURA/07%20-%20Trunfo/trunfo2.png)
 
-### Aula 10: Certificado
+### Aula 10: [Certificado](https://karengiovanna.github.io/)
 ![image](https://user-images.githubusercontent.com/49700354/113954857-0a42e200-97f1-11eb-95df-e73be8c8e2a1.png)

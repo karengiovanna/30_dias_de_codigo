@@ -3,7 +3,7 @@
 ## Conteúdo
 
 * [Regras](regras.md)
-* [Log - clique aqui para ver meu progresso de Março](log.md)
+* [Progresso de Março](log.md)
 * [Progresso de Abril](abril.md)
 
 
